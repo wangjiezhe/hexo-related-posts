@@ -30,7 +30,7 @@
     "chalk": "^4.1.0"
   },
   "dependencies": {
-    "natural": "^2.1.5"
+    "natural": "^7.0.5"
   },
   "devDependencies": {
     "chalk": "^4.1.0"
